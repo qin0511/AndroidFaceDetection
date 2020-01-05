@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\541cee560d720e48eed269082aa98114\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\314180f7e786944535890efe5883f359\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\ebe793542bb7a7d03ac5ef17255f1a04\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\339bc3f44faf40c7e1c1b7f0b8c59aac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\e3da99ac61d283139aa406fc23220285\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\ccadf922bb6d44e4d41f84d9bc88451c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\0567bffe3e17af3ef3f959d5ac7863b8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\2deddfaf9b51fb9a7e83133818708319\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\172ff2aa158d93870d33f1fce303fba7\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\6956dc40e5919b332db6a445520dc83e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\823c6af4b075327b616e566361893663\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\cb41e30e2457876e29774225fc715c35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\0b677d5b7e60f026d67ac70efc5abf0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\5f65e83a687dbed4d96a5bb66ac8a6f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\6170ea96eddd400471b8111d00fa7ec0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\73ccf38de2faea66c2596738f3735f7d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\10291dc7fd570d25e61701d6bfba0200\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\c75992580ebd2dd6d58f6715f9e251da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\943c0f7808440b6c7ebe207036ac92d6\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\73a59544b4bf92a9fc23af1ae45eecf0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\58de9100b4f2677d3fc9d6302d70fdf2\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\25ae0da2fb6ba8143da7b37a32be8841\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\882a20c672f07c322941718100d48fd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\a676f770b368be960a727c8aed93b4df\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\e84a2626768d5a5d0f709fd6072eec7c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\31f4aaf2ac6c64e3b870caedcaa6432c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\2fa234d82c6c1e798907f6ee3a4a4f7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\69977ca88e629603fb27def1e89f39dc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\314180f7e786944535890efe5883f359\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\314180f7e786944535890efe5883f359\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\ebe793542bb7a7d03ac5ef17255f1a04\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\ebe793542bb7a7d03ac5ef17255f1a04\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\339bc3f44faf40c7e1c1b7f0b8c59aac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\339bc3f44faf40c7e1c1b7f0b8c59aac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\e3da99ac61d283139aa406fc23220285\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\e3da99ac61d283139aa406fc23220285\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\0567bffe3e17af3ef3f959d5ac7863b8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\0567bffe3e17af3ef3f959d5ac7863b8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\2deddfaf9b51fb9a7e83133818708319\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\2deddfaf9b51fb9a7e83133818708319\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\172ff2aa158d93870d33f1fce303fba7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\172ff2aa158d93870d33f1fce303fba7\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\943c0f7808440b6c7ebe207036ac92d6\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\943c0f7808440b6c7ebe207036ac92d6\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\58de9100b4f2677d3fc9d6302d70fdf2\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\58de9100b4f2677d3fc9d6302d70fdf2\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\943c0f7808440b6c7ebe207036ac92d6\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.androidatc.facedetectionproject.MainActivity
+ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:21:5-23:32
+	android:value
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:23:9-29
+	android:name
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml:22:9-66
+uses-sdk
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\541cee560d720e48eed269082aa98114\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\541cee560d720e48eed269082aa98114\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\314180f7e786944535890efe5883f359\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\314180f7e786944535890efe5883f359\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\ebe793542bb7a7d03ac5ef17255f1a04\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\ebe793542bb7a7d03ac5ef17255f1a04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\339bc3f44faf40c7e1c1b7f0b8c59aac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\339bc3f44faf40c7e1c1b7f0b8c59aac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\e3da99ac61d283139aa406fc23220285\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\e3da99ac61d283139aa406fc23220285\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\ccadf922bb6d44e4d41f84d9bc88451c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\ccadf922bb6d44e4d41f84d9bc88451c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\0567bffe3e17af3ef3f959d5ac7863b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\0567bffe3e17af3ef3f959d5ac7863b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\2deddfaf9b51fb9a7e83133818708319\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\2deddfaf9b51fb9a7e83133818708319\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\172ff2aa158d93870d33f1fce303fba7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\172ff2aa158d93870d33f1fce303fba7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\6956dc40e5919b332db6a445520dc83e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\6956dc40e5919b332db6a445520dc83e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\823c6af4b075327b616e566361893663\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\823c6af4b075327b616e566361893663\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\cb41e30e2457876e29774225fc715c35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\cb41e30e2457876e29774225fc715c35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\0b677d5b7e60f026d67ac70efc5abf0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\0b677d5b7e60f026d67ac70efc5abf0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\5f65e83a687dbed4d96a5bb66ac8a6f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\5f65e83a687dbed4d96a5bb66ac8a6f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\6170ea96eddd400471b8111d00fa7ec0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\6170ea96eddd400471b8111d00fa7ec0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\73ccf38de2faea66c2596738f3735f7d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\73ccf38de2faea66c2596738f3735f7d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\10291dc7fd570d25e61701d6bfba0200\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\10291dc7fd570d25e61701d6bfba0200\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\c75992580ebd2dd6d58f6715f9e251da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\c75992580ebd2dd6d58f6715f9e251da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\943c0f7808440b6c7ebe207036ac92d6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\943c0f7808440b6c7ebe207036ac92d6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\73a59544b4bf92a9fc23af1ae45eecf0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\73a59544b4bf92a9fc23af1ae45eecf0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\58de9100b4f2677d3fc9d6302d70fdf2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\58de9100b4f2677d3fc9d6302d70fdf2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\25ae0da2fb6ba8143da7b37a32be8841\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\25ae0da2fb6ba8143da7b37a32be8841\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\882a20c672f07c322941718100d48fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\882a20c672f07c322941718100d48fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\a676f770b368be960a727c8aed93b4df\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\a676f770b368be960a727c8aed93b4df\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\e84a2626768d5a5d0f709fd6072eec7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\e84a2626768d5a5d0f709fd6072eec7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\31f4aaf2ac6c64e3b870caedcaa6432c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\31f4aaf2ac6c64e3b870caedcaa6432c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\2fa234d82c6c1e798907f6ee3a4a4f7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\2fa234d82c6c1e798907f6ee3a4a4f7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\69977ca88e629603fb27def1e89f39dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\69977ca88e629603fb27def1e89f39dc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ivyqx\AndroidStudioProjects\FaceDetectionProject\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\d8a8e2b37c3e7bddd7370056a915e8b8\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\172ff2aa158d93870d33f1fce303fba7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\172ff2aa158d93870d33f1fce303fba7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ivyqx\.gradle\caches\transforms-2\files-2.1\172ff2aa158d93870d33f1fce303fba7\AndroidManifest.xml:24:13-58
